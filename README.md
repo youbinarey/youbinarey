@@ -1,10 +1,14 @@
 # 👋 Glad you found me!
-  <img src="https://github-readme-stats-alpha-seven-91.vercel.app/api?username=youbinarey&show_icons=true&theme=transparent" alt="GitHub stats" style="width: 45%;">
 
-## What I do
-<div style="display: flex; justify-content: space-between; align-items: right;">
-  <p style="width: 50%; text-align: left;">I'm currently training as a backend developer, building projects with Java, Python, and databases to strengthen my skills and prepare for professional opportunities.</p>
-</div>
+
+## 🧑‍💻 What I Do
+
+I'm a **Junior Backend Developer** passionate about building **web and desktop applications** that solve real problems.
+
+I enjoy designing backend architectures, working with databases, and especially **deploying** my solutions using tools like Docker.
+
+I'm also strongly interested in **process automation**, using tools to streamline workflows, reduce manual effort, and boost efficiency.
+
 
 
 
@@ -27,16 +31,18 @@
 
 
 ---
-<!-- 
-## 📂 Featured Projects
+## 💼 Featured Projects
+
+Here are two projects that showcase my ability to build and deploy backend systems for both web and desktop platforms:
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🧠 **ERP for Communities** | A desktop system to manage neighborhood communities | Java, Spring Boot, PostgreSQL, JavaFX |
-| 💬 **Messaging App** | Client-server messaging using sockets | Java, JavaFX |
-| ⚙️ **ETL with Kestra** | ETL flow from XML to MongoDB using Python and Kestra | Python, Kestra, Docker |  
+|--------|-------------|------------|
+| 🏢 [**Community Management System**](https://github.com/youbinarey/Community-Management) | A modular system to manage residential communities, including invoices, communications, and property data. Built for both web and desktop use. | Java, Spring Boot, PostgreSQL, Docker, Angular, Python, SMTP |
+| 💬 [**Proto Chat**](https://github.com/youbinarey/Proto-Chat) | A client-server messaging application with real-time chat between users. Designed as a lightweight desktop solution. | Java, JavaFX, Sockets |
 
--->
+
+
+
 
 ## 📫 Contact  
 I’m always open to new ideas and projects. Let’s create something awesome together!
