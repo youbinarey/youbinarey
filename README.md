@@ -1,7 +1,8 @@
+
+
+<img src="assets/personal_background.png" alt="Banner Backend Developer" style="width: 100%; border-radius: 8px;">
+
 # 👋 Glad you found me!
-
-
-## 🧑‍💻 What I Do
 
 I'm a **Junior Backend Developer** passionate about building **web and desktop applications** that solve real problems.
 
@@ -37,7 +38,7 @@ Here are two projects that showcase my ability to build and deploy backend syste
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🏢 [**Community Management System**](https://github.com/youbinarey/Community-Management) | A modular system to manage residential communities, including invoices, communications, and property data. Built for both web and desktop use. | Java, Spring Boot, PostgreSQL, Docker, Angular, Python, SMTP |
+| 🏢 [**Community Management System**](https://github.com/youbinarey/Community-Management) | A modular system to manage residential communities, including invoices, communications, and property data. | Java, Spring Boot, PostgreSQL, Docker, Angular, Python, SMTP |
 | 💬 [**Proto Chat**](https://github.com/youbinarey/Proto-Chat) | A client-server messaging application with real-time chat between users. Designed as a lightweight desktop solution. | Java, JavaFX, Sockets |
 
 
